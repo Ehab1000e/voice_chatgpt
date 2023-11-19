@@ -1,6 +1,6 @@
 ################################################################
-# Nick Bild
-# January 2023
+# Ehab Tejkeste
+# November 2023
 # https://github.com/nickbild/voice_chatgpt
 #
 # Voice-controlled ChatGPT prompt
